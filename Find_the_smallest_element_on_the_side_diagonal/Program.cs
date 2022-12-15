@@ -4,7 +4,7 @@
 int lines = 5;
 int rows = 5;
 
-Console.Write("Computer creates an array... ");
+Console.WriteLine("Computer creates an array... ");
 
 int[,] CreateTwoDimArray(int lines, int rows)
 {
@@ -34,21 +34,26 @@ int[,] matrix = new int[lines, rows];
 matrix = CreateTwoDimArray(lines, rows);
 Console.Write("Computer prints the array... ");
 Console.WriteLine(" ");
+Console.WriteLine(" ");
 CreateTwoDimArray(lines, rows);
 PrintTwoDimArray(matrix);
 
-
-int i = lines-1;
-int j = 0;
-int min = matrix[i,j];
-
-while (i>-1 || j < rows)
+int MinOnsideDiag(int [,] matrix)
 {
-    if(matrix[i,j]<min)
+    int i = lines-1;
+    int j = 0;
+    int min = matrix[i,j];
+    while (i>-1 || j < rows)
     {
-        min=matrix[i,j];
+        if(matrix[i,j]<min)
+        {
+         min=matrix[i,j];
+        }
+        i--;
+        j++;
     }
-    i--;
-    j++;
+    return min;
 }
-Console.Write("Min element on te side diagonale is " + min);
+Console.WriteLine(" ");
+Console.WriteLine("Min element on te side diagonale is " + MinOnsideDiag(matrix));
+Console.WriteLine(" ");
