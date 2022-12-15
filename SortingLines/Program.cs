@@ -8,7 +8,8 @@ int rows = new Random().Next(5, 10);
 Console.WriteLine(" ");
 
 Console.Write("Computer creates an array... ");
-// Console.WriteLine(" ");
+Console.WriteLine(" ");
+
 
 int[,] CreateTwoDimArray(int lines, int rows)
 {
@@ -19,7 +20,7 @@ int[,] CreateTwoDimArray(int lines, int rows)
         {
             matrix[i, j] = new Random().Next(0, 10);
         }
-        Console.WriteLine(" ");
+        
     }
     return matrix;
 }
@@ -76,19 +77,20 @@ int[,] AscendOrder(int[,] matrix, int line, int finalLine)
     else return matrix;
     
 }
-
-CreateTwoDimArray(lines, rows);
-PrintTwoDimArray(matrix);
 Console.Write("Computer prints the array... ");
 Console.WriteLine(" ");
-Console.Write("Computer sorts in ascending order the last line in the array... ");
 Console.WriteLine(" ");
-Console.Write("The computer prints the modified array... ");
+PrintTwoDimArray(matrix);
 Console.WriteLine(" ");
 Console.Write("Enter the start line number to sort... ");
 int line = int.Parse(Console.ReadLine()!);
-Console.WriteLine(" ");
 Console.Write("Enter the final line number to sort... ");
 int finalLine = int.Parse(Console.ReadLine()!);
 Console.WriteLine(" ");
+Console.Write("Computer sorts in ascending order  lines in the array... ");
+Console.WriteLine(" ");
+Console.Write("The computer prints the modified array... ");
+Console.WriteLine(" ");
+Console.WriteLine(" ");
 PrintTwoDimArray(AscendOrder(matrix, line, finalLine));
+Console.WriteLine(" ");
