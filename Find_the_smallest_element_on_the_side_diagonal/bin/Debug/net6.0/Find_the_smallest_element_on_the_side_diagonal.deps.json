@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Find_the_smallest_element_on_the_side_diagonal/1.0.0": {
+        "runtime": {
+          "Find_the_smallest_element_on_the_side_diagonal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Find_the_smallest_element_on_the_side_diagonal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
