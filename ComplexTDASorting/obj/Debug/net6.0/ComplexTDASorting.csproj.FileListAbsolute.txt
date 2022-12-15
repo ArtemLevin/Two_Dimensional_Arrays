@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\bin\Debug\net6.0\ComplexTDASorting.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\bin\Debug\net6.0\ComplexTDASorting.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\bin\Debug\net6.0\ComplexTDASorting.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\bin\Debug\net6.0\ComplexTDASorting.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\bin\Debug\net6.0\ComplexTDASorting.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\refint\ComplexTDASorting.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ComplexTDASorting.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ComplexTDASorting\obj\Debug\net6.0\ref\ComplexTDASorting.dll
