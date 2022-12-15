@@ -39,9 +39,9 @@ void PrintTwoDimArray(int[,] matrix)
 int[,] matrix = new int[lines, rows];
 matrix = CreateTwoDimArray(lines, rows);
 
-int[,] AscendOrder(int[,] matrix)
+int[,] AscendOrder(int[,] matrix, int line)
 {
-    int i = lines-1;
+    int i = line;
     int max = matrix[i, 0];
     int temp;
     int j = 0;
@@ -81,4 +81,8 @@ Console.Write("Computer sorts in ascending order the last line in the array... "
 Console.WriteLine(" ");
 Console.Write("The computer prints the modified array... ");
 Console.WriteLine(" ");
-PrintTwoDimArray(AscendOrder(matrix));
+Console.Write("Enter the line number to sort... ");
+int line = int.Parse(Console.ReadLine()!);
+Console.WriteLine(" ");
+PrintTwoDimArray(AscendOrder(matrix, line));
+
