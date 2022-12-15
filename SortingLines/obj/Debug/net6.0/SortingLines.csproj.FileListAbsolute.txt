@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\bin\Debug\net6.0\SortingLines.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\bin\Debug\net6.0\SortingLines.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\bin\Debug\net6.0\SortingLines.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\bin\Debug\net6.0\SortingLines.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\bin\Debug\net6.0\SortingLines.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\refint\SortingLines.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\SortingLines.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\SortingLines\obj\Debug\net6.0\ref\SortingLines.dll
