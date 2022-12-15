@@ -40,15 +40,15 @@ PrintTwoDimArray(matrix);
 
 int i = lines-1;
 int j = 0;
-int max = matrix[i,j];
+int min = matrix[i,j];
 
 while (i>-1 || j < rows)
 {
-    if(matrix[i,j]>max)
+    if(matrix[i,j]<min)
     {
-        max=matrix[i,j];
+        min=matrix[i,j];
     }
     i--;
     j++;
 }
-Console.Write(max);
+Console.Write("Min element on te side diagonale is " + min);
