@@ -39,23 +39,16 @@ PrintTwoDimArray(matrix);
 
 int [,] ComplexSorting(int[,] matrix, int startNumLine, int startNumRow)
 {
-    int i = 0;
-    int j = 0;
-    int max = matrix[0, 0];
-    int k=0;
-    int p=0;
+    int i = startNumLine;
+    int j = startNumRow;
+    int max = matrix[i, j];
+    int k = startNumLine;
+    int p = startNumRow;
     int temp;
-    int u = 0;
-    int y = 0;
-    int countRow = 1;
-    if(startNumRow%4 == 0)
-    {
-        startNumLine+=1;
-        startNumRow = 0;
-    }
+
+    
     while (i < lines)
     { 
-        j = 0;
         while (j < rows)
         {
             if(matrix[i, j] > max)
@@ -66,6 +59,7 @@ int [,] ComplexSorting(int[,] matrix, int startNumLine, int startNumRow)
             }
             j++;
         }
+        j = 0;
         i++;
     }
 
@@ -73,7 +67,21 @@ int [,] ComplexSorting(int[,] matrix, int startNumLine, int startNumRow)
     matrix[k, p] = matrix[startNumLine, startNumRow];
     matrix[startNumLine, startNumRow] = temp;
 
-    return matrix;
+    startNumRow++;
+
+    if(startNumLine == 4 && startNumRow == 4)
+    {
+        return matrix;
+    }
+    if(startNumRow > 4)
+    {
+        startNumLine++;
+        startNumRow = 0;
+    }
+
+    return ComplexSorting(matrix, startNumLine, startNumRow);
+
+
 
 }
 Console.Write("Enter the line number of the element to exchange... ");
