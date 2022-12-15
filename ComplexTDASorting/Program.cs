@@ -1,7 +1,11 @@
 ﻿
 
-int lines = 5;
-int rows = 5;
+Console.Write("Computer selectes the number of lines... ");
+int lines = new Random().Next(5, 10);
+Console.WriteLine(" ");
+Console.Write("Computer selectes the number of rows... ");
+int rows = new Random().Next(5, 10);
+Console.WriteLine(" ");
 
 Console.WriteLine("Computer creates an array... ");
 
@@ -69,11 +73,11 @@ int [,] ComplexSorting(int[,] matrix, int startNumLine, int startNumRow)
 
     startNumRow++;
 
-    if(startNumLine == 4 && startNumRow == 4)
+    if(startNumLine == lines -1 && startNumRow == rows -1)
     {
         return matrix;
     }
-    if(startNumRow > 4)
+    if(startNumRow > rows -1)
     {
         startNumLine++;
         startNumRow = 0;
