@@ -37,7 +37,7 @@ Console.WriteLine(" ");
 CreateTwoDimArray(lines, rows);
 PrintTwoDimArray(matrix);
 
-int  ComplexSorting(int[,] matrix)
+int [,] ComplexSorting(int[,] matrix, int startNumLine, int startNumRow)
 {
     int i = 0;
     int j = 0;
@@ -47,8 +47,14 @@ int  ComplexSorting(int[,] matrix)
     int temp;
     int u = 0;
     int y = 0;
+    int countRow = 1;
+    if(startNumRow%4 == 0)
+    {
+        startNumLine+=1;
+        startNumRow = 0;
+    }
     while (i < lines)
-    {   
+    { 
         j = 0;
         while (j < rows)
         {
@@ -60,19 +66,22 @@ int  ComplexSorting(int[,] matrix)
             }
             j++;
         }
-
         i++;
     }
-    // if(i < lines -1 && j < rows -1 && matrix[i,j] < max)
-    // {
-    //     temp = matrix[k, p];
-    //     matrix[k, p] = matrix[i,j];
-    //     matrix[i,j] = temp;
-    // }
-    return max;
+
+    temp = matrix[k, p];
+    matrix[k, p] = matrix[startNumLine, startNumRow];
+    matrix[startNumLine, startNumRow] = temp;
+
+    return matrix;
 
 }
-
-// Console.Write("Computer is sorting the array... ");
-// Console.WriteLine(" ");
-Console.Write(ComplexSorting(matrix));
+Console.Write("Enter the line number of the element to exchange... ");
+int startNumLine = int.Parse(Console.ReadLine());
+Console.WriteLine(" ");
+Console.Write("Enter the row number of the element to exchange... ");
+int startNumRow = int.Parse(Console.ReadLine());
+Console.WriteLine(" ");
+Console.Write("Computer is sorting the array... ");
+Console.WriteLine(" ");
+PrintTwoDimArray(ComplexSorting(matrix, startNumLine, startNumRow));
