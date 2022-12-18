@@ -21,7 +21,7 @@ twoDimArray = CreateArray();
 PrintArray(twoDimArray );
 Console.WriteLine(" ");
 
-int[,] SortingBubble (int[,] twoDimArray)
+int[,] SortingBubbleInLines (int[,] twoDimArray)
 {
     for (int i = 0; i < twoDimArray.GetLength(0); i++)
     {
@@ -53,4 +53,4 @@ void PrintArray(int[,] twoDimArray)
     }
 }
 
-PrintArray(SortingBubble(twoDimArray));
+PrintArray(SortingBubbleInLines(twoDimArray));
