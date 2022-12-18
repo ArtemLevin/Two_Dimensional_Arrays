@@ -1,4 +1,4 @@
-﻿
+﻿// Сортировка двумерного массива вставкой
 
 Console.Write("Computer selectes the number of lines... ");
 int lines = new Random().Next(5, 10);
