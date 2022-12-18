@@ -139,3 +139,31 @@ Console.WriteLine(" ");
 
 
 PrintOneRowArray(SortingBubbleOneRow(OneRowArray(twoDimArray))); 
+
+int [,] SortedTwoDinArray(int[] oneRow, int rows, int columns)
+{
+    int i=0, j = 0, k = 0;
+
+    int [,] sortedTDA = new int[rows, columns];
+
+    while (i < rows)
+    {
+        j=0;
+        while(j < columns)
+        {
+            sortedTDA[i, j] = oneRow[k];
+            k++;
+            j++;
+            if (j > columns-1) 
+            {
+                i++;
+            }
+        }
+    }
+    return sortedTDA;
+}
+
+Console.WriteLine(" ");
+
+Console.WriteLine(" ");
+PrintArray(SortedTwoDinArray(SortingBubbleOneRow(OneRowArray(twoDimArray)), twoDimArray.GetLength(0), twoDimArray.GetLength(1)));
