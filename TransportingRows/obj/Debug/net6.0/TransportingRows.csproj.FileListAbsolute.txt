@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\bin\Debug\net6.0\TransportingRows.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\bin\Debug\net6.0\TransportingRows.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\bin\Debug\net6.0\TransportingRows.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\bin\Debug\net6.0\TransportingRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\bin\Debug\net6.0\TransportingRows.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\refint\TransportingRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\TransportingRows.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\TransportingRows\obj\Debug\net6.0\ref\TransportingRows.dll
