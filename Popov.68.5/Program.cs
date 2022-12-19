@@ -1,4 +1,6 @@
-﻿
+﻿// Распределение чисел по спирали в массиве.
+
+
 Console.Write("Enter the spiral size ");
 int n = int.Parse(Console.ReadLine()!);
 
