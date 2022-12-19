@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\bin\Debug\net6.0\Popov.68.5.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\bin\Debug\net6.0\Popov.68.5.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\bin\Debug\net6.0\Popov.68.5.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\bin\Debug\net6.0\Popov.68.5.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\bin\Debug\net6.0\Popov.68.5.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\refint\Popov.68.5.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\Popov.68.5.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\Popov.68.5\obj\Debug\net6.0\ref\Popov.68.5.dll
