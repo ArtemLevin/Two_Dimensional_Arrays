@@ -6,66 +6,27 @@ int[,] SpiralArray(int n)
 {
     int i = 0, j = n;
     int count = 0;
-    int p = 0;
-    int t = 1;
+    int p = 1;
     int q = 0;
-    int u =0;
+    int u = 0;
     int[,] array = new int[n, n];
     while (true)
-    { 
-        u=0;    
-        while (u<n-q)
+    {      
+        while (u < n - q)
         {
             if (n * n <= count) return array;
-            j--;
+            if (p == 1) j--; 
+            if (p == 2) i++;
+            if (p == 3) j++;
+            if (p == 4) i--;
             array[i, j] = n * n - count;
-            Console.Write(" AAA i = {0}, j = {1}, count = {2}, arrayElement = {3}, u = {4}, q = {5}", i, j, count, array[i, j], u, q);
-            Console.WriteLine(" ");
             count++;
             u++;
         }
-        u=0;
-
-        q++;       
-
-        while (u<n-q)
-        {
-            if (n * n <= count) return array;
-            i++;
-            array[i, j] = n * n - count;
-            Console.Write(" BBB i = {0}, j = {1}, count = {2}, arrayElement = {3}, u = {4}, q = {5}", i, j, count, array[i, j], u,q);
-            Console.WriteLine(" ");
-            count++;
-            u++;
-        }
-        u=0;
-
-        while (u<n-q)
-        {
-            if (n * n <= count) return array;
-            j++;
-            array[i, j] = n * n - count;
-            Console.Write(" CCC i = {0}, j = {1}, count = {2}, arrayElement = {3}, u = {4}, q = {5}", i, j, count, array[i, j], u,q);
-            Console.WriteLine(" ");
-            count++;
-            u++;
-        }
-        
-        u=0;
-
-        q++;
-
-        while (u<n-q)
-        {
-            if (n * n <= count) return array;
-            i--;
-            array[i, j] = n * n - count;
-            Console.Write(" DDD i = {0}, j = {1}, count = {2}, arrayElement = {3}, u = {4}, q = {5}", i, j, count, array[i, j], u,q);
-            Console.WriteLine(" ");
-            count++;
-            u++;
-        }
-
+        if(p==1 || p==3) q++;
+        if(p==4) p = 0;
+        u = 0;
+        p++;
     }
     return array;
 }
@@ -83,4 +44,5 @@ void PrintTwoDimArray(int[,] matrix)
 }
 
 PrintTwoDimArray(SpiralArray(n));
+
 
