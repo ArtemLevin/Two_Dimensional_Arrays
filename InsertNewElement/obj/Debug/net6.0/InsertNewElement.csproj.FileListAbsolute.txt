@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\bin\Debug\net6.0\InsertNewElement.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\bin\Debug\net6.0\InsertNewElement.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\bin\Debug\net6.0\InsertNewElement.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\bin\Debug\net6.0\InsertNewElement.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\bin\Debug\net6.0\InsertNewElement.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\refint\InsertNewElement.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\InsertNewElement.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\InsertNewElement\obj\Debug\net6.0\ref\InsertNewElement.dll
