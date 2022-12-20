@@ -1,4 +1,7 @@
-﻿int[,] CreateArray(int rows, int columns)
+﻿// Определить радиус и центр окружности, на которой лежит наибольшее
+// число точек заданного на плоскости массива точек А(xi,yi)
+
+int[,] CreateArray(int rows, int columns)
 {
     int[,] array = new int[rows, columns];
     for (int i = 0; i < rows; i++)
