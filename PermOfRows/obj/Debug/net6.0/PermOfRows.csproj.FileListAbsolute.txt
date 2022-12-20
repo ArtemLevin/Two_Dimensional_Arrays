@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\bin\Debug\net6.0\PermOfRows.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\bin\Debug\net6.0\PermOfRows.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\bin\Debug\net6.0\PermOfRows.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\bin\Debug\net6.0\PermOfRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\bin\Debug\net6.0\PermOfRows.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\refint\PermOfRows.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\PermOfRows.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\PermOfRows\obj\Debug\net6.0\ref\PermOfRows.dll
