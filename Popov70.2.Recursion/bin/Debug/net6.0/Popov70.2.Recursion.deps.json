@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Popov70.2.Recursion/1.0.0": {
+        "runtime": {
+          "Popov70.2.Recursion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Popov70.2.Recursion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
