@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.AssemblyInfo.cs
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\bin\Debug\net6.0\ConvertOneDimToTwoDim.exe
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\bin\Debug\net6.0\ConvertOneDimToTwoDim.deps.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\bin\Debug\net6.0\ConvertOneDimToTwoDim.runtimeconfig.json
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\bin\Debug\net6.0\ConvertOneDimToTwoDim.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\bin\Debug\net6.0\ConvertOneDimToTwoDim.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\refint\ConvertOneDimToTwoDim.dll
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.pdb
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ConvertOneDimToTwoDim.genruntimeconfig.cache
+C:\Users\PC\Desktop\TWO_DIMENSIONAL_ARRAY\ConvertOneDimToTwoDim\obj\Debug\net6.0\ref\ConvertOneDimToTwoDim.dll
