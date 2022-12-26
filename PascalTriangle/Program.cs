@@ -25,11 +25,12 @@ void PrintArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write("{0}	", array[i, j]);
+            if (array[i,j] == 0) Console.Write(" \t");
+            else Console.Write("{0}\t", array[i, j]);
         }
         Console.WriteLine(" ");
     }
 }
 
-PrintArray(PascalTriangle(6));
+PrintArray(PascalTriangle(10));
 
